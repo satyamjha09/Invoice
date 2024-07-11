@@ -1,0 +1,15 @@
+.multipal_input{
+    display: flex;
+    margin-top: 1.2rem;
+}
+
+.multipal_input input {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    gap: 2px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 20px; /* Adjust padding as needed */
+   border-radius: 5px;
+   border: 1px solid #B4B4B4;
+}

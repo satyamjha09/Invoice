@@ -1,0 +1,37 @@
+.textcss {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; /* Adjust spacing between inputs */
+  }
+  
+  .textcss input {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 20px; /* Adjust padding as needed */
+    border-radius: 5px;
+    border: 1px solid #B4B4B4;
+  }
+  
+  .textcss input:focus {
+    border-color: #007bff; /* Change border color on focus */
+  }
+  
+  .textcss .comadd {
+    margin-top: 1rem; /* Adjust margin-top as needed */
+  }
+  
+  .textcss .your {
+    margin-top: 1rem; /* Adjust margin-top as needed */
+  }
+  
+  .preview {
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .preview h2 {
+    margin-top: 0;
+  }
+  

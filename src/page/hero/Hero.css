@@ -1,0 +1,121 @@
+.twodiv {
+    min-width: 1280px;
+    margin-top: 2.5rem;
+    display: flex;
+}
+
+.invoice {
+    background-color: #FFFFFF;
+    min-width: 900px;
+    height: 900px;
+}
+
+.colordiv {
+    background-color: #FFFFFF;
+    min-width: 380px;
+    margin-left: 25px;
+    
+}
+
+
+
+.frontheading {
+    color: #676767;
+    font-weight: 700;
+    line-height: 56px;
+    font-size: 38px;
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+.left {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    margin-top: 20px;
+
+}
+
+
+
+.left #text {
+
+    padding: 12px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-left: 1.5rem;
+
+}
+
+.left_right {
+    display: flex;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 450px;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+
+.right input {
+    padding: 15px 40px;
+    border-radius: 5px;
+    border-radius: 1px solid #ccc;
+}
+
+.bill {
+    margin-left: 1.5rem;
+    margin-top: 2rem;
+    font-weight: 600;
+    font-size: 24px;
+    color: #ccc;
+}
+
+.bill_input {
+    display: flex;
+}
+
+.bill-left {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    margin-top: 20px;
+}
+
+.bill-left input {
+    padding: 12px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-left: 1.5rem;
+
+}
+
+
+.bill-right{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 450px;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+
+.bill-right input {
+    padding: 15px 40px;
+    border-radius: 5px;
+    border-radius: 1px solid #ccc;
+}
+
+.btn {
+    margin-top: 44px;
+    margin-left: 1.2rem;
+    padding: 15px 55px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    sha
+}

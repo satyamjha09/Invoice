@@ -1,0 +1,40 @@
+
+.topheading {
+    font-weight: 600;
+    font-size: 2.625rem;
+    color: #231F20;
+    margin-top: 1.5rem;
+    line-height: 2.75rem;
+    margin-left: 1.5rem;
+}
+
+.topheading span {
+    color: #ED1A3B;
+}
+
+.small {
+    display: flex;
+    margin-left: 1.5rem;
+
+}
+
+.enter {
+
+    background: #ED1A3B;
+    width: 100px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 3.9rem;
+}
+
+.preview {
+    background: #D1D3D4;
+    width: 100px;
+    height: 60px;
+    border-radius: 5px;
+    margin-left: 2.565rem;
+    margin-top: 3.9rem;
+    margin-left: 14.5rem;
+    position: absolute;
+
+}
